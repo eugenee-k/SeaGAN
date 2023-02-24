@@ -1,5 +1,5 @@
 # SeaGAN
-AI GAN model that generates images of the seawater surface with 896x512 resolution
+AI [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) model that generates images of the seawater surface with 896x512 resolution
 <hr>
 
 I trained this model on Google Colab with premium GPU and I had nice results after 10000+ epochs.
