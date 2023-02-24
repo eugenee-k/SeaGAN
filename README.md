@@ -2,7 +2,7 @@
 AI [GAN](https://en.wikipedia.org/wiki/Generative_adversarial_network) model that generates images of the seawater surface with 896x512 resolution
 <hr>
 
-I developed and trained this model on Google Colab with premium GPU and I had nice results after 10000+ epochs.
+I developed and trained this model on Google Colab with premium GPU and got nice results after 10000+ epochs.
 
 The Google Colab notebook ([sea.ipynb](https://github.com/eugenee-k/SeaGAN/blob/main/sea.ipynb)) uses Google Drive to load train data and save checkpoints, so you need to upload this file (train data) into your Google Drive: https://drive.google.com/file/d/1zHQDn7fkXHJJyTMk_czvCPt60Le-0d6h/view?usp=share_link
 
